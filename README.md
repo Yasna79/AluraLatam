@@ -73,10 +73,5 @@ function Resetear() {
 - CSS
 - JavaScript
 
-## Mejoras futuras
-- Agregar estilos con CSS para mejorar la interfaz.
-- Permitir eliminar nombres individuales de la lista.
-- Guardar la lista en `localStorage` para que no se pierda al recargar la página.
-
 ## Autor
 Yasna Perez Montenegro
